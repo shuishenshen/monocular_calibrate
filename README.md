@@ -1,2 +1,11 @@
-# monocular_calibrate
-使用opencv进行单目相机标定
+1、说明
+此程序是对网上的代码进行整理与修改
+
+2、系统和依赖库：
+使用ubunttu16.04和OpenCV3.3.1进行的代码测试
+
+3、编译
+./build.sh
+
+4、运行
+./run.sh

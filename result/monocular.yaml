@@ -1,0 +1,17 @@
+%YAML:1.0
+---
+cameraMatrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 5.3279536561720806e+02, 0., 3.4245825163099130e+02, 0.,
+       5.3291928337538900e+02, 2.3390060513783425e+02, 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 5
+   cols: 1
+   dt: d
+   data: [ -2.8108625815449112e-01, 2.7258100928654640e-02,
+       1.2166590818226588e-03, -1.3420427382479115e-04,
+       1.5851402333495301e-01 ]
+the overall RMS re-projection error: 1.9643790890333912e-01
+the Mean pixel re-projection error: 1.4341758787159737e+00
